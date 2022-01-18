@@ -1,8 +1,8 @@
 # Machine learning course project in the field of NLP
 
-from corpus of hebrew stories i had to clasify if the writer is female/male
+The goal of this project is to clasify form corpus of hebrew stories if the writer of the story is female/male
 
-tech - python:
+Project stack - Python:
 - pandas
 - numpy
 - hebrewtoknizer
